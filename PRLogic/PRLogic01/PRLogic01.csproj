@@ -42,6 +42,11 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Soal01.cs" />
+    <Compile Include="Soal02.cs" />
+    <Compile Include="Soal03.cs" />
+    <Compile Include="Soal04.cs" />
+    <Compile Include="Soal05.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
